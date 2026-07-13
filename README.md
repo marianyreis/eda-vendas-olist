@@ -95,9 +95,19 @@ As principais análises geraram gráficos como:
 - Pedidos por Estado
 - Tempo Médio de Entrega
 
-> As imagens estão disponíveis na pasta `imagens/`.
+## 📸 Principais Visualizações
 
----
+### Receita por categoria
+
+![Receita por categoria](imagens/receita_categoria.png)
+
+### Sazonalidade dos pedidos
+
+![Sazonalidade dos pedidos](imagens/sazonalidade_pedidos.png)
+
+### Distribuição das avaliações
+
+![Distribuição das avaliações](imagens/distribuicao_avaliacoes.png)
 
 ## 📁 Estrutura do Projeto
 
