@@ -4,7 +4,7 @@ Analise exploratoria do dataset publico de e-commerce brasileiro da Olist,
 com foco em receita por categoria e satisfacao dos clientes.
 
 ## Pergunta central
-Quais categorias geram mais receita — e os clientes ficam satisfeitos com elas?
+Quais categorias geram mais receita e os clientes ficam satisfeitos com elas?
 
 ## Stack
 - Python 3
