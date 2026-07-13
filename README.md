@@ -1,10 +1,10 @@
-# EDA — Vendas e Satisfacao de Clientes (Olist)
+# EDA — Vendas e Satisfação de Clientes (Olist)
 
 Analise exploratoria do dataset publico de e-commerce brasileiro da Olist,
-com foco em receita por categoria e satisfacao dos clientes.
+com foco em receita por categoria e satisfação dos clientes.
 
 ## Pergunta central
-Quais categorias geram mais receita e os clientes ficam satisfeitos com elas?
+As categorias mais rentáveis do Olist são também as mais bem avaliadas pelos clientes ou receita alta esconde insatisfação?
 
 ## Stack
 - Python 3
